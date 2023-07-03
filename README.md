@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasunjais
 - 👀 I’m interested in gaming and coding in JS, Go, JAVA and C++.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Platform Unification
 - 📫 How to reach me prasunjais@gmail.com 
 
